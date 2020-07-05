@@ -5,14 +5,15 @@
 body {
   font-family: "Ubuntu", sans-serif;
   font-weight: 300;
-  color: #333;
+  color: #f4f4f4c2;
   line-height: 1.5;
   font-size: 16px;
+  background-color: #222;
 }
 
 a,
 a:hover {
-  color: #a00;
+  color: #2ab7ff;
   text-decoration: none;
 }
 
@@ -81,7 +82,7 @@ span {
 
 a,
 a:hover {
-  color: #a00;
+  color: #2ab7ff;
   text-decoration: none;
 }
 
@@ -97,7 +98,7 @@ h5,
 h6 {
   font-family: Ubuntu, raleway, sans-serif;
   line-height: 1.2;
-  color: #330;
+  color: #2ab7ff;
   font-weight: 100;
   margin-bottom: 15px;
   margin-top: 20px;
